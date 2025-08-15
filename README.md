@@ -1,5 +1,17 @@
 # HOME-AUTOMATION-WITH-BLUETOOTH
 
+COMPANY: CODTECH IT SOLUTIONS
+
+"NAME: SRIHARI A
+
+"INTERN ID: CT04DY35
+
+"DOMAIN: FRONT END DEVELOPMENT"
+
+DURATION: 4 WEEEKS
+
+"MENTOR: VAISHALI"
+
 Project Description:
 
 This project allows users to remotely control home appliances using an Android smartphone. The system uses an Arduino Uno board, a 16x2 LCD display, and six relays or output devices connected to digital pins. Communication between the Android device and Arduino is done using Serial Communication, likely through a Bluetooth module (HC-05/HC-06) or via USB-OTG.
@@ -87,3 +99,6 @@ Use Wi-Fi (ESP8266/ESP32) for IoT-based remote control.
 Add sensors (temperature, motion, etc.) for automation.
 
 Use a more advanced user interface (Android app or webpage).
+
+Output:
+https://github.com/Srihari9215/HOME-AUTOMATION-WITH-BLUETOOTH/issues/1#issue-3325172713
